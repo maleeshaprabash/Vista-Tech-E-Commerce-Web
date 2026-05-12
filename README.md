@@ -1,6 +1,6 @@
 <div align="center">
 
-![PCGear Shop Banner](./banner.svg)
+![PCGear Shop Banner](./banner.jpg)
 
 <br/>
 
