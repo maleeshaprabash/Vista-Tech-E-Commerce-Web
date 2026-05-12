@@ -1,7 +1,5 @@
 <div align="center">
 
-![PCGear Shop Banner](./banner.jpg)
-
 <br/>
 
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://mongodb.com)
